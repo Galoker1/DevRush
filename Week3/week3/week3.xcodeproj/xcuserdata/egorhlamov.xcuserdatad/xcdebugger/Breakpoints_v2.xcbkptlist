@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4EA30444-A039-4318-9C35-7258B74574EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EF2A41E-FDBD-4458-BE7C-1AA858EB73C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "week3/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "loadMeme(queryStr:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EF2A41E-FDBD-4458-BE7C-1AA858EB73C9 - 2bdd454ea3edba7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in week3.NetworkManager.loadMeme(queryStr: Swift.String, completion: (week3.DataModel) -&gt; ()) -&gt; ()"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorhlamov/Documents/GitHub/DevRush/Week3/week3/week3/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "2EF2A41E-FDBD-4458-BE7C-1AA858EB73C9 - 2bdd454ea3edba14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in week3.NetworkManager.loadMeme(queryStr: Swift.String, completion: (week3.DataModel) -&gt; ()) -&gt; ()"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorhlamov/Documents/GitHub/DevRush/Week3/week3/week3/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B096417-4611-4889-85E2-E5665B1B8BDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "week3/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "loadMeme(queryStr:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
